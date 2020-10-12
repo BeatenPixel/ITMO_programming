@@ -20,12 +20,12 @@ public class Program {
 	private static void start() {
 		Battle b = new Battle();
 		
-		Stunky p1 = new Stunky("Чужой", 1);
-		Marshadow p2 = new Marshadow("Хищник", 1);
-		Skutank p3 = new Skutank("Яблоко", 1);
-		Deino p4 = new Deino("Дед инсайд", 1);
-		Zweilous p5 = new Zweilous("Арбуз", 1);
-		Hydreigon p6 = new Hydreigon("Пёс", 1);
+		Stunky p1 = new Stunky("Apple", 1);
+		Marshadow p2 = new Marshadow("Coconut", 1);
+		Skutank p3 = new Skutank("Tomato", 1);
+		Deino p4 = new Deino("Beetroot", 1);
+		Zweilous p5 = new Zweilous("Pineapple", 1);
+		Hydreigon p6 = new Hydreigon("Carrot", 1);
 		
 		b.addAlly(p1);
 		b.addAlly(p3);
