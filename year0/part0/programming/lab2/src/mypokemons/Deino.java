@@ -1,6 +1,6 @@
-package MyPokemons;
+package mypokemons;
 
-import MyMoves.Deino.*;
+import mymoves.deino.*;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 

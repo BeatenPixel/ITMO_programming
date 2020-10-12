@@ -1,4 +1,4 @@
-package MyMoves.Marshadow;
+package mymoves.marshadow;
 
 import ru.ifmo.se.pokemon.Effect;
 import ru.ifmo.se.pokemon.Pokemon;

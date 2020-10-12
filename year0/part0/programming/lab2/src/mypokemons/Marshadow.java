@@ -1,6 +1,6 @@
-package MyPokemons;
+package mypokemons;
 
-import MyMoves.Marshadow.*;
+import mymoves.marshadow.*;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 

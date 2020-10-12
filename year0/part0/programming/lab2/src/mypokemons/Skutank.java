@@ -1,6 +1,6 @@
-package MyPokemons;
+package mypokemons;
 
-import MyMoves.Stunky.*;
+import mymoves.stunky.*;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 

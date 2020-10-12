@@ -1,27 +1,23 @@
-package MyMoves.Stunky;
+package mymoves.stunky;
 
 import lab2.MyUtils;
 import ru.ifmo.se.pokemon.Effect;
+import ru.ifmo.se.pokemon.PhysicalMove;
 import ru.ifmo.se.pokemon.Pokemon;
-import ru.ifmo.se.pokemon.SpecialMove;
-import ru.ifmo.se.pokemon.Stat;
 import ru.ifmo.se.pokemon.Type;
 
-public class AcidSpray extends SpecialMove {
+public class PoisonJab extends PhysicalMove {
 
-	public AcidSpray(double power, double acc) {
-		super(Type.ELECTRIC, power, acc);
+	public PoisonJab(double power, double acc) {
+		super(Type.POISON, power, acc);
 	}
 	
 	@Override
 	protected void applyOppDamage(Pokemon def, double damage) {
 		super.applyOppDamage(def, damage);
 		
-		if(MyUtils.Chance(1)) {
-			Effect e = new Effect().stat(Stat.SPECIAL_DEFENSE, -2);
-			def.addEffect(e);
-			
-			System.out.println(def.toString() + "'s special defence -2");
+		if(MyUtils.chance(0.3)) {
+			Effect.poison(def);
 		}
 	}
 

@@ -1,6 +1,6 @@
 package lab2;
 
-import MyPokemons.*;
+import mypokemons.*;
 import ru.ifmo.se.pokemon.Battle;
 import ru.ifmo.se.pokemon.Pokemon;
 
@@ -14,10 +14,10 @@ public class Program {
 	// https://pokemondb.net/pokedex/hydreigon
 	
 	public static void main(String[] args) {
-		Start();
+		start();
 	}
 	
-	private static void Start() {
+	private static void start() {
 		Battle b = new Battle();
 		
 		Stunky p1 = new Stunky("×óæîé", 1);

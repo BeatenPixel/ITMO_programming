@@ -31,8 +31,8 @@
       <operations public="false" package="true" protected="false" private="false" static="false"/>    
     </display>  
   </class>  
-  <class id="4" language="java" name="MyMoves.Stunky.PoisonJab" project="lab2" 
-    file="/lab2/src/MyMoves/Stunky/PoisonJab.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="4" language="java" name="mymoves.stunky.PoisonJab" project="lab2" 
+    file="/lab2/src/mymoves/stunky/PoisonJab.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="62" y="393"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -40,8 +40,8 @@
       <operations public="false" package="true" protected="false" private="false" static="false"/>    
     </display>  
   </class>  
-  <class id="5" language="java" name="MyMoves.Stunky.AcidSpray" project="lab2" 
-    file="/lab2/src/MyMoves/Stunky/AcidSpray.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="5" language="java" name="mymoves.stunky.AcidSpray" project="lab2" 
+    file="/lab2/src/mymoves/stunky/AcidSpray.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="427" y="378"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -49,8 +49,8 @@
       <operations public="false" package="true" protected="false" private="false" static="false"/>    
     </display>  
   </class>  
-  <class id="6" language="java" name="MyMoves.Deino.DoubleHit" project="lab2" 
-    file="/lab2/src/MyMoves/Deino/DoubleHit.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="6" language="java" name="mymoves.deino.DoubleHit" project="lab2" 
+    file="/lab2/src/mymoves/deino/DoubleHit.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="169" y="394"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -58,8 +58,8 @@
       <operations public="false" package="true" protected="false" private="false" static="false"/>    
     </display>  
   </class>  
-  <class id="7" language="java" name="MyMoves.Marshadow.IcePunch" project="lab2" 
-    file="/lab2/src/MyMoves/Marshadow/IcePunch.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="7" language="java" name="mymoves.marshadow.IcePunch" project="lab2" 
+    file="/lab2/src/mymoves/marshadow/IcePunch.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="291" y="398"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -67,8 +67,8 @@
       <operations public="false" package="true" protected="false" private="false" static="false"/>    
     </display>  
   </class>  
-  <class id="8" language="java" name="MyMoves.Marshadow.FlashCannon" project="lab2" 
-    file="/lab2/src/MyMoves/Marshadow/FlashCannon.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="8" language="java" name="mymoves.marshadow.FlashCannon" project="lab2" 
+    file="/lab2/src/mymoves/marshadow/FlashCannon.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="536" y="389"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -76,8 +76,8 @@
       <operations public="false" package="true" protected="false" private="false" static="false"/>    
     </display>  
   </class>  
-  <class id="9" language="java" name="MyMoves.Marshadow.ThunderPunch" project="lab2" 
-    file="/lab2/src/MyMoves/Marshadow/ThunderPunch.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="9" language="java" name="mymoves.marshadow.ThunderPunch" project="lab2" 
+    file="/lab2/src/mymoves/marshadow/ThunderPunch.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="83" y="473"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -85,7 +85,7 @@
       <operations public="false" package="true" protected="false" private="false" static="false"/>    
     </display>  
   </class>  
-  <class id="10" language="java" name="MyMoves.Deino.Bite" project="lab2" file="/lab2/src/MyMoves/Deino/Bite.java" 
+  <class id="10" language="java" name="mymoves.deino.Bite" project="lab2" file="/lab2/src/mymoves/deino/Bite.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="307" y="480"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -94,8 +94,8 @@
       <operations public="false" package="true" protected="false" private="false" static="false"/>    
     </display>  
   </class>  
-  <class id="11" language="java" name="MyMoves.Marshadow.Swagger" project="lab2" 
-    file="/lab2/src/MyMoves/Marshadow/Swagger.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="11" language="java" name="mymoves.marshadow.Swagger" project="lab2" 
+    file="/lab2/src/mymoves/marshadow/Swagger.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="700" y="383"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -103,8 +103,8 @@
       <operations public="false" package="true" protected="false" private="false" static="false"/>    
     </display>  
   </class>  
-  <class id="12" language="java" name="MyMoves.Stunky.DarkPulse" project="lab2" 
-    file="/lab2/src/MyMoves/Stunky/DarkPulse.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="12" language="java" name="mymoves.stunky.DarkPulse" project="lab2" 
+    file="/lab2/src/mymoves/stunky/DarkPulse.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="425" y="460"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -112,8 +112,8 @@
       <operations public="false" package="true" protected="false" private="false" static="false"/>    
     </display>  
   </class>  
-  <class id="13" language="java" name="MyMoves.Deino.DragonPulse" project="lab2" 
-    file="/lab2/src/MyMoves/Deino/DragonPulse.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="13" language="java" name="mymoves.deino.DragonPulse" project="lab2" 
+    file="/lab2/src/mymoves/deino/DragonPulse.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="531" y="477"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -121,7 +121,7 @@
       <operations public="false" package="true" protected="false" private="false" static="false"/>    
     </display>  
   </class>  
-  <class id="14" language="java" name="MyMoves.Deino.Slam" project="lab2" file="/lab2/src/MyMoves/Deino/Slam.java" 
+  <class id="14" language="java" name="mymoves.deino.Slam" project="lab2" file="/lab2/src/mymoves/deino/Slam.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="178" y="553"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -130,8 +130,8 @@
       <operations public="false" package="true" protected="false" private="false" static="false"/>    
     </display>  
   </class>  
-  <class id="15" language="java" name="MyMoves.Stunky.NightSlash" project="lab2" 
-    file="/lab2/src/MyMoves/Stunky/NightSlash.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="15" language="java" name="mymoves.stunky.NightSlash" project="lab2" 
+    file="/lab2/src/mymoves/stunky/NightSlash.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="197" y="470"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -149,7 +149,7 @@
       <operations public="false" package="true" protected="false" private="false" static="false"/>    
     </display>  
   </class>  
-  <class id="17" language="java" name="MyPokemons.Stunky" project="lab2" file="/lab2/src/MyPokemons/Stunky.java" 
+  <class id="17" language="java" name="mypokemons.Stunky" project="lab2" file="/lab2/src/mypokemons/Stunky.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="96" y="32"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -158,7 +158,7 @@
       <operations public="false" package="true" protected="false" private="false" static="false"/>    
     </display>  
   </class>  
-  <class id="18" language="java" name="MyPokemons.Marshadow" project="lab2" file="/lab2/src/MyPokemons/Marshadow.java" 
+  <class id="18" language="java" name="mypokemons.Marshadow" project="lab2" file="/lab2/src/mypokemons/Marshadow.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="225" y="32"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -167,7 +167,7 @@
       <operations public="false" package="true" protected="false" private="false" static="false"/>    
     </display>  
   </class>  
-  <class id="19" language="java" name="MyPokemons.Skutank" project="lab2" file="/lab2/src/MyPokemons/Skutank.java" 
+  <class id="19" language="java" name="mypokemons.Skutank" project="lab2" file="/lab2/src/mypokemons/Skutank.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="354" y="32"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -176,7 +176,7 @@
       <operations public="false" package="true" protected="false" private="false" static="false"/>    
     </display>  
   </class>  
-  <class id="20" language="java" name="MyPokemons.Deino" project="lab2" file="/lab2/src/MyPokemons/Deino.java" 
+  <class id="20" language="java" name="mypokemons.Deino" project="lab2" file="/lab2/src/mypokemons/Deino.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="481" y="32"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -185,7 +185,7 @@
       <operations public="false" package="true" protected="false" private="false" static="false"/>    
     </display>  
   </class>  
-  <class id="21" language="java" name="MyPokemons.Hydreigon" project="lab2" file="/lab2/src/MyPokemons/Hydreigon.java" 
+  <class id="21" language="java" name="mypokemons.Hydreigon" project="lab2" file="/lab2/src/mypokemons/Hydreigon.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="608" y="32"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -194,7 +194,7 @@
       <operations public="false" package="true" protected="false" private="false" static="false"/>    
     </display>  
   </class>  
-  <class id="22" language="java" name="MyPokemons.Zweilous" project="lab2" file="/lab2/src/MyPokemons/Zweilous.java" 
+  <class id="22" language="java" name="mypokemons.Zweilous" project="lab2" file="/lab2/src/mypokemons/Zweilous.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="735" y="32"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
