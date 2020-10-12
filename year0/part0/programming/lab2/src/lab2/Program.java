@@ -27,7 +27,6 @@ public class Program {
 		Zweilous p5 = new Zweilous("Арбуз", 1);
 		Hydreigon p6 = new Hydreigon("Пёс", 1);
 		
-		
 		b.addAlly(p1);
 		b.addAlly(p3);
 		b.addAlly(p5);
