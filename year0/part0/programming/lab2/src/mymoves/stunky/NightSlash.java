@@ -2,8 +2,10 @@ package mymoves.stunky;
 
 import lab2.MyUtils;
 import ru.ifmo.se.pokemon.Effect;
+import ru.ifmo.se.pokemon.Messages;
 import ru.ifmo.se.pokemon.PhysicalMove;
 import ru.ifmo.se.pokemon.Pokemon;
+import ru.ifmo.se.pokemon.Stat;
 import ru.ifmo.se.pokemon.Type;
 
 public class NightSlash extends PhysicalMove {
@@ -18,8 +20,13 @@ public class NightSlash extends PhysicalMove {
 	}
 	
 	@Override
-	protected double calcCriticalHit(Pokemon att, Pokemon def) {
-		return 1d / 8d;
+	protected double calcCriticalHit(Pokemon att, Pokemon def) {		
+		if(att.getStat(Stat.SPEED) / 8.0D > Math.random()) {
+			System.out.println("Critical hit!");
+			return 2.0D;
+		} else {
+			return 1.0D;
+		}
 	}
 	
 	@Override

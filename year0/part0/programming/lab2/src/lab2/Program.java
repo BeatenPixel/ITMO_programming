@@ -1,8 +1,13 @@
 package lab2;
 
+import java.util.Enumeration;
+import java.util.ListResourceBundle;
+
 import mypokemons.*;
 import ru.ifmo.se.pokemon.Battle;
+import ru.ifmo.se.pokemon.Messages_en;
 import ru.ifmo.se.pokemon.Pokemon;
+import sun.misc.resources.Messages;
 
 public class Program {
 
@@ -26,7 +31,7 @@ public class Program {
 		Deino p4 = new Deino("Beetroot", 1);
 		Zweilous p5 = new Zweilous("Pineapple", 1);
 		Hydreigon p6 = new Hydreigon("Carrot", 1);
-		
+				
 		b.addAlly(p1);
 		b.addAlly(p3);
 		b.addAlly(p5);
