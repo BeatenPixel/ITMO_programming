@@ -1,0 +1,27 @@
+Класс программы lab2.Program
+Main Файл программы src/lab2/Program.java
+Путь к Pokemon.jar lib_jar/Pokemon.jar
+
+lab2:
+	src
+	lib_jar
+
+//Компилируем классы нашей программы, используем Pokemon.jar, чтобы не было
+//ошибок. На выходе .class файлов только нашей программы 
+mkdir bin
+javac -sourcepath src -d bin -classpath lib_jar/Pokemon.jar src/lab2/Program.java
+
+// Можно проверить запустить
+java -classpath bin:lib_jar/Pokemon.jar lab2.Program
+
+mkdir lib
+cd lib
+//Компилируем классы .class Pokemon.jar'а
+jar -xvf ../lib_jar/Pokemon.jar ru/
+
+cd ..
+//Копируем классы нашей программы в папку lib
+//Теперь в lib классы нашей программы и классы jar библиотеки
+cp -r bin/* lib/
+//Создаём jar из классов в папке lib, с имененм program.jar, в путь .
+jar -cef lab2.Program program.jar -C lib .
